@@ -1,4 +1,4 @@
-# Política de Privacidade
+# Pomodoro ‒ Política de Privacidade
 
 Esta é a Política de Privacidade para Pomodoro por Gabriel Rocha. Nessa aplicação, eu não coleto, utilizo ou processo nenhum dado do usuário.
 

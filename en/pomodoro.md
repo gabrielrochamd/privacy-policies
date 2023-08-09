@@ -1,4 +1,4 @@
-# Privacy Policy
+# Pomodoro ‒ Privacy Policy
 
 This is the Privacy Policy for Gabriel Rocha's Pomodoro. In this application, I do not collect, use or process any user data.
 
